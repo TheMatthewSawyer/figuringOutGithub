@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+img {
+    opacity: 0;
+}
+
+.center {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+.btnFormat {
+    font-size: 30px;
+}
